@@ -1,0 +1,14 @@
+C:\Users\Vitor\Documents\backend\DemoMicroservice\bin\Debug\netcoreapp2.1\DemoMicroservice.deps.json
+C:\Users\Vitor\Documents\backend\DemoMicroservice\bin\Debug\netcoreapp2.1\DemoMicroservice.runtimeconfig.json
+C:\Users\Vitor\Documents\backend\DemoMicroservice\bin\Debug\netcoreapp2.1\DemoMicroservice.runtimeconfig.dev.json
+C:\Users\Vitor\Documents\backend\DemoMicroservice\bin\Debug\netcoreapp2.1\DemoMicroservice.dll
+C:\Users\Vitor\Documents\backend\DemoMicroservice\bin\Debug\netcoreapp2.1\DemoMicroservice.pdb
+C:\Users\Vitor\Documents\backend\DemoMicroservice\obj\Debug\netcoreapp2.1\DemoMicroservice.csprojAssemblyReference.cache
+C:\Users\Vitor\Documents\backend\DemoMicroservice\obj\Debug\netcoreapp2.1\DemoMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Documents\backend\DemoMicroservice\obj\Debug\netcoreapp2.1\DemoMicroservice.RazorAssemblyInfo.cache
+C:\Users\Vitor\Documents\backend\DemoMicroservice\obj\Debug\netcoreapp2.1\DemoMicroservice.RazorAssemblyInfo.cs
+C:\Users\Vitor\Documents\backend\DemoMicroservice\obj\Debug\netcoreapp2.1\DemoMicroservice.AssemblyInfoInputs.cache
+C:\Users\Vitor\Documents\backend\DemoMicroservice\obj\Debug\netcoreapp2.1\DemoMicroservice.AssemblyInfo.cs
+C:\Users\Vitor\Documents\backend\DemoMicroservice\obj\Debug\netcoreapp2.1\DemoMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\Vitor\Documents\backend\DemoMicroservice\obj\Debug\netcoreapp2.1\DemoMicroservice.dll
+C:\Users\Vitor\Documents\backend\DemoMicroservice\obj\Debug\netcoreapp2.1\DemoMicroservice.pdb
